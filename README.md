@@ -1,5 +1,5 @@
 # polish-town-string
-UTF-8 string containing names of all cities, towns and villages in Poland. There are 68650 polish names on this list separated by a coma.
+UTF-8 string containing names of all cities, towns and villages in Poland. There are 124672 polish names officially but many of it are duplicated. This string is filtering out the duplicated names which resulted in 68650 cities, towns and villages separated by a coma.
 
 String was extracted by FME software from official list names in SHP file.
 
